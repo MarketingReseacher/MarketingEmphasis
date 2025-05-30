@@ -2,7 +2,7 @@
 primaryColor="#F63366"
 backgroundColor="#FFFFFF"
 secondaryBackgroundColor="#dce6db"
-textColor="#1F3B65"
+textColor="#2c302b"
 font="sans serif"
 [server]
 maxUploadSize=40000
